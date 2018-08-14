@@ -3,7 +3,7 @@ Section: python
 Priority: optional
 Maintainer: Sebastian Ramacher <sramacher@debian.org>
 Build-Depends:
- debhelper (>= 10),
+ debhelper (>= 9),
  dh-python,
  pypy,
  pypy-setuptools,
